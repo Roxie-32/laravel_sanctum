@@ -11,4 +11,6 @@
 
 Laravel Sanctum provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs. Sanctum allows each user of your application to generate multiple API tokens for their account. These tokens may be granted abilities / scopes which specify which actions the tokens are allowed to perform.
 
-### This repository shows a basic authentication system with Laravel Sanctum.
+#### Introduction
+Why go through the long haul😪 of  [Laravel Passport ](https://laravel.com/docs/8.x/passport) to build an authentication system for Single Page Applications when you have  [Laravel Sanctum](https://laravel.com/docs/8.x/sanctum) 😎? 
+In this guide, you'll learn how to build a basic authentication where users can **register**, **log in** and also **log out** with Sanctum as well as few other important details about Sanctum....**[Read more](https://roxie.hashnode.dev/laravel-8-api-authentication-using-laravel-sanctum)**
